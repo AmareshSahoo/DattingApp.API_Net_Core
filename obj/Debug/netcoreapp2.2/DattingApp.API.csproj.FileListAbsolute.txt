@@ -1,0 +1,14 @@
+E:\Datting APP\DattingApp.API\DattingApp.API\bin\Debug\netcoreapp2.2\DattingApp.API.deps.json
+E:\Datting APP\DattingApp.API\DattingApp.API\bin\Debug\netcoreapp2.2\DattingApp.API.runtimeconfig.json
+E:\Datting APP\DattingApp.API\DattingApp.API\bin\Debug\netcoreapp2.2\DattingApp.API.runtimeconfig.dev.json
+E:\Datting APP\DattingApp.API\DattingApp.API\bin\Debug\netcoreapp2.2\DattingApp.API.dll
+E:\Datting APP\DattingApp.API\DattingApp.API\bin\Debug\netcoreapp2.2\DattingApp.API.pdb
+E:\Datting APP\DattingApp.API\DattingApp.API\obj\Debug\netcoreapp2.2\DattingApp.API.csproj.CoreCompileInputs.cache
+E:\Datting APP\DattingApp.API\DattingApp.API\obj\Debug\netcoreapp2.2\DattingApp.API.RazorAssemblyInfo.cache
+E:\Datting APP\DattingApp.API\DattingApp.API\obj\Debug\netcoreapp2.2\DattingApp.API.RazorAssemblyInfo.cs
+E:\Datting APP\DattingApp.API\DattingApp.API\obj\Debug\netcoreapp2.2\DattingApp.API.AssemblyInfoInputs.cache
+E:\Datting APP\DattingApp.API\DattingApp.API\obj\Debug\netcoreapp2.2\DattingApp.API.AssemblyInfo.cs
+E:\Datting APP\DattingApp.API\DattingApp.API\obj\Debug\netcoreapp2.2\DattingApp.API.RazorTargetAssemblyInfo.cache
+E:\Datting APP\DattingApp.API\DattingApp.API\obj\Debug\netcoreapp2.2\DattingApp.API.dll
+E:\Datting APP\DattingApp.API\DattingApp.API\obj\Debug\netcoreapp2.2\DattingApp.API.pdb
+E:\Datting APP\DattingApp.API\DattingApp.API\obj\Debug\netcoreapp2.2\DattingApp.API.csprojAssemblyReference.cache
